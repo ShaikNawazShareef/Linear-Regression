@@ -115,7 +115,7 @@ Linear-Regression/
 
 ## 👨‍💻 Author
 
-**Nawaz Shaik**
+**Nawaz Shareef Shaik**
 
 GitHub: https://github.com/ShaikNawazShareef
 
